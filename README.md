@@ -1,1 +1,1 @@
-# CSCI-E-71
+# CSCI-E-71 Agile Software Development
